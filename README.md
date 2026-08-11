@@ -1,6 +1,10 @@
 <img width="400" alt="Hello, I'm Karl. I do open source!" src="./assets/gh-readme-header.png" />
 
 
+## GitHub Activity
+
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=kyeongan&hide_border=true)
+
 <!-- [![GitHub stats](https://github-readme-stats-kyeongan.vercel.app//api?username=Kyeongan)](https://github.com/Kyeongan/github-readme-stats) -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kyeongan&hide_border=false)](https://git.io/streak-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyeongan&langs_count=5&hide=html,css,tex)](https://github.com/Kyeongan/github-readme-stats) -->
